@@ -1,4 +1,4 @@
-### Dice-Roller App using Kotlin
+#### Dice-Roller App using Kotlin
 
 <img align="left" alt="jpg" src="https://user-images.githubusercontent.com/63442418/144986706-b873d6ad-daa0-4177-b2b3-36dc98fc6369.jpg" width="295px" />
 <img align="left" alt="jpg" src="https://user-images.githubusercontent.com/63442418/144986714-01ee7905-e778-4955-970d-a7d4599597a1.jpg" width="295px" />
